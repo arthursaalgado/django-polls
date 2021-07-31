@@ -1,0 +1,6 @@
+include LICENSE
+include README.rst
+recursive-include pools/static *
+recursive-include polls/templates *
+
+recursive-include docs *
